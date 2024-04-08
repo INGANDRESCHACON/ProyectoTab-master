@@ -8,7 +8,7 @@ public class ApiPrueba {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ApiPrueba.class, args);
-		System.out.println("run21667822 okk");
+		System.out.println("run123456okokoko");
 		
 	}
 
